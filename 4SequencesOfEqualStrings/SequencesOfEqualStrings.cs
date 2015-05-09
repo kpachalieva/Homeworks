@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 
-
+/*
+ * Hello kattie
+ *
+ */
 class SequencesOfEqualStrings
 {
     static void Main()
